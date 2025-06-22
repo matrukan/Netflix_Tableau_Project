@@ -4,7 +4,7 @@ This project explores Netflix content using Tableau. It provides insights into t
 
 ## 📊 Dashboard Preview
 
-![Netflix Dashboard](images/Netflix_Dashboard_Preview.png)
+![Netflix Dashboard](images/netflix_dashboard_preview.png)
 
 ## 📁 Files Included
 - `Netflix.twb`: Tableau workbook
