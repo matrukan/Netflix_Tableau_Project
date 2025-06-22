@@ -2,6 +2,10 @@
 
 This project explores Netflix content using Tableau. It provides insights into the distribution of movies and TV shows across countries, genre popularity, and content ratings.
 
+## 📊 Dashboard Preview
+
+![Netflix Dashboard](images/Netflix_Dashboard_Preview.png)
+
 ## 📁 Files Included
 - `Netflix.twb`: Tableau workbook
 - `data/netflix_titles.csv`: Dataset sourced from [Kaggle Netflix Dataset](https://www.kaggle.com/shivamb/netflix-shows)
